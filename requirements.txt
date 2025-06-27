@@ -1,0 +1,8 @@
+click
+openai
+python-dotenv
+pytest
+fastapi
+uvicorn
+twilio
+python-multipart
