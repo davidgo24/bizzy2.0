@@ -1,0 +1,76 @@
+{
+    "client_phone": "1111110001",
+    "messages": [
+        {
+            "role": "client",
+            "content": "hello!",
+            "timestamp": "2025-06-27T09:27:38.248049"
+        },
+        {
+            "role": "bizzy",
+            "content": "Hello! How can I assist you today?",
+            "timestamp": "2025-06-27T09:27:40.674918"
+        },
+        {
+            "role": "client",
+            "content": "i need to book an appt!! another hairstylist messed up my hair \ud83d\ude2d",
+            "timestamp": "2025-06-27T09:28:08.572670"
+        },
+        {
+            "role": "owner",
+            "content": "oh no honey!! what happened???",
+            "timestamp": "2025-06-27T09:28:17.217556"
+        },
+        {
+            "role": "bizzy",
+            "content": "I\u2019m really sorry to hear that! It sounds like you\u2019re in a bit of a hair emergency. Can you tell me more about what happened? This way, I can relay the details to Melissa and help you get an appointment as soon as possible.",
+            "timestamp": "2025-06-27T09:28:18.358135"
+        },
+        {
+            "role": "client",
+            "content": "well.. idk i guess my instructions werent clear. could i come by to see you? maybe we can jsut schedule a consult so u can see it in person.....",
+            "timestamp": "2025-06-27T09:28:49.329608"
+        },
+        {
+            "role": "owner",
+            "content": "yes that would be a great idea!!! -- thanks for realying bizzy, get the scheduling for the consult done. thanks!",
+            "timestamp": "2025-06-27T09:29:16.047735"
+        },
+        {
+            "role": "bizzy",
+            "content": "Absolutely! I\u2019ll check with Melissa about scheduling a consultation for you. Could you please let me know your preferred day and time? I\u2019ll make sure to relay that information to her for confirmation.",
+            "timestamp": "2025-06-27T09:29:17.615916"
+        },
+        {
+            "role": "client",
+            "content": "yes how about july 1st at 10am?",
+            "timestamp": "2025-06-27T09:29:36.871279"
+        },
+        {
+            "role": "owner",
+            "content": "yes i checked my availability and that works for me. tell her ill see her then!",
+            "timestamp": "2025-06-27T09:29:52.624477"
+        },
+        {
+            "role": "bizzy",
+            "content": "Melissa will be happy to see you on July 1st at 10 AM for your consultation! I\u2019ll relay that information to her. If you have any other questions or need anything else in the meantime, just let me know!",
+            "timestamp": "2025-06-27T09:29:53.692502"
+        },
+        {
+            "role": "client",
+            "content": "sweet thanks!!",
+            "timestamp": "2025-06-27T09:30:03.706246"
+        },
+        {
+            "role": "owner",
+            "content": "no need for my intervention bizzy she just said thanks!",
+            "timestamp": "2025-06-27T09:30:20.765589"
+        },
+        {
+            "role": "bizzy",
+            "content": "You're welcome! If you need anything else or have more questions before your appointment, feel free to reach out. Looking forward to seeing you on July 1st!",
+            "timestamp": "2025-06-27T09:30:21.877968"
+        }
+    ],
+    "state": "general_inquiry"
+}
